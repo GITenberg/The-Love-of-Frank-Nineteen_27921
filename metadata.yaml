@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33014'
     url: http://www.gutenberg.org/2009/agents/33014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27921#The-Love-of-Frank-Nineteen
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-01-28'
 gutenberg_type: Text
